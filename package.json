@@ -1,0 +1,14 @@
+{
+  "name": "d3-cli",
+  "version": "0.0.1",
+  "preferGlobal": "true",
+  "bin": {
+    "d3": "cli.js"
+  },
+  "description": "A simple command line interface to D3.",
+  "main": "d3",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Victor Powell"
+}
