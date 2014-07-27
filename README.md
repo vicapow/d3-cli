@@ -26,7 +26,7 @@ d3
 
 ## Notes
 
-+ D3 cli is just the Node.JS CLI with `d3` available by default and a `load()`
++ D3 cli is the Node.JS CLI with `d3` available by default and a `load()`
   helper function.
-+ `load()` is just a shortcut to `require('fs').readFileSync(file).toString()`.
++ `load()` is a shortcut to `require('fs').readFileSync(file).toString()`.
 
